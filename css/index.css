@@ -1,0 +1,45 @@
+* {
+    font-family:'Times New Roman', Times, serif;
+}
+
+.bg {
+    background-color: #dbdbdb;
+}
+
+.homeblack {
+    background-color: black;
+}
+
+.black {
+    color: black;
+}
+
+.navFS {
+    margin-top: 15px;
+}
+
+.imgFS {
+    margin-top: -5px;
+    margin-bottom: 15px;
+}
+
+.homeText {
+    color: white;
+    text-align: center;
+}
+
+.carousel-m {
+    margin-bottom: 60px;
+}
+
+.mh {
+    max-height: 100px;
+}
+
+.mw {
+    max-width: 100px;
+}
+
+.card {
+    background-color: black;
+}
